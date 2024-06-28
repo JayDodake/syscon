@@ -1,0 +1,6 @@
+sr.no   command         use
+
+  1.    exit            to exit the program
+  2.    help            to get help about syscon
+  3.    get-commands    to get a list of commands
+  4.    clear           to clear terminal
